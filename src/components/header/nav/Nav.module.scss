@@ -1,0 +1,10 @@
+.nav {
+  border: 1px solid;
+  width: 300px;
+  display:flex;
+  padding: 18px;
+  justify-content:space-between;
+  & a {
+    text-decoration: none;
+  }
+}
